@@ -6,4 +6,5 @@ Visual Features:
 - Dark ambient room to enhance light effects
 - Inner mysterious glow that draws focus
 Purpose: To create an immersive, awe-inspiring visual experience
-It can be used for Game Assets.
+It can be used for Game Assets. It is not just a model and rendered image, it was also editted by compositioning
+
